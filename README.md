@@ -1,0 +1,3 @@
+- https://github.com/observerss/textfilter/blob/master/keywords
+- https://pastebin.com/raw/LCPyenzC
+- 
